@@ -1,6 +1,6 @@
 # Verilog CPU Design
 
-A two-stage CPU design project implemented in Verilog HDL for the BLG222E Computer Organization course at Istanbul Technical University.
+A two-stage 16-bit CPU implementation in Verilog HDL, featuring datapath design, ALU, register files, memory integration, and a hardwired control unit. Developed for the BLG222E Computer Organization course at Istanbul Technical University.
 
 <p align="center">
   <img src="cpu_architecture.png" alt="CPU Architecture" width="750">

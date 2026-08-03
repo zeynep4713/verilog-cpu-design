@@ -1,0 +1,32 @@
+#-----------------------------------------------------------
+# xsim v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Apr  4 14:44:02 2024
+# Process ID: 3036
+# Current directory: C:/Users/skola/Desktop/ExampleSubmissionv3/Simulation_Files
+# Command line: xsim.exe -mode tcl -source {xsim.dir/regsim/xsim_script.tcl}
+# Log file: C:/Users/skola/Desktop/ExampleSubmissionv3/Simulation_Files/xsim.log
+# Journal file: C:/Users/skola/Desktop/ExampleSubmissionv3/Simulation_Files\xsim.jou
+#-----------------------------------------------------------
+source xsim.dir/regsim/xsim_script.tcl
+# xsim {regsim} -autoloadwcfg -runall
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+run -all
+------------------------------------
+Register Simulation Started
+[PASS] Test No: 1, Component: Q, Actual Value: 0x0025, Expected Value: 0x0025
+[PASS] Test No: 2, Component: Q, Actual Value: 0x0024, Expected Value: 0x0024
+[PASS] Test No: 3, Component: Q, Actual Value: 0x0025, Expected Value: 0x0025
+[PASS] Test No: 4, Component: Q, Actual Value: 0x0026, Expected Value: 0x0026
+[PASS] Test No: 5, Component: Q, Actual Value: 0x0025, Expected Value: 0x0025
+[PASS] Test No: 6, Component: Q, Actual Value: 0x0012, Expected Value: 0x0012
+[PASS] Test No: 7, Component: Q, Actual Value: 0x0025, Expected Value: 0x0025
+[PASS] Test No: 8, Component: Q, Actual Value: 0x0000, Expected Value: 0x0000
+Register Simulation Finished
+0 Test Failed
+8 Test Passed
+------------------------------------
+exit
+INFO: [Common 17-206] Exiting xsim at Thu Apr  4 14:44:05 2024...

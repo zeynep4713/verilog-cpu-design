@@ -1,0 +1,28 @@
+#-----------------------------------------------------------
+# xsim v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Apr  4 14:44:21 2024
+# Process ID: 13284
+# Current directory: C:/Users/skola/Desktop/ExampleSubmissionv3/Simulation_Files
+# Command line: xsim.exe -mode tcl -source {xsim.dir/addregfilesim/xsim_script.tcl}
+# Log file: C:/Users/skola/Desktop/ExampleSubmissionv3/Simulation_Files/xsim.log
+# Journal file: C:/Users/skola/Desktop/ExampleSubmissionv3/Simulation_Files\xsim.jou
+#-----------------------------------------------------------
+source xsim.dir/addregfilesim/xsim_script.tcl
+# xsim {addregfilesim} -autoloadwcfg -runall
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+run -all
+------------------------------------
+AddressRegisterFile Simulation Started
+[PASS] Test No: 1, Component: OutC, Actual Value: 0x1234, Expected Value: 0x1234
+[PASS] Test No: 1, Component: OutD, Actual Value: 0x5678, Expected Value: 0x5678
+[PASS] Test No: 2, Component: OutA, Actual Value: 0x1234, Expected Value: 0x1234
+[PASS] Test No: 2, Component: OutB, Actual Value: 0x3548, Expected Value: 0x3548
+AddressRegisterFile Simulation Finished
+0 Test Failed
+4 Test Passed
+------------------------------------
+exit
+INFO: [Common 17-206] Exiting xsim at Thu Apr  4 14:44:26 2024...

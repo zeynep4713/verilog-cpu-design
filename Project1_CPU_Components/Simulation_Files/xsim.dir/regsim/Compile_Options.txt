@@ -1,0 +1,1 @@
+-top "RegisterSimulation" -snapshot "regsim" -debug "typical" 

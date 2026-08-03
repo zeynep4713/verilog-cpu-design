@@ -1,0 +1,18 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/skola/Desktop/ExampleSubmissionv3/AddressRegisterFile.v,1712150928,verilog,,,,AddressRegisterFile,,,,,,,,
+C:/Users/skola/Desktop/ExampleSubmissionv3/AddressRegisterFileSimulation.v,1709980323,verilog,,,,AddressRegisterFileSimulation,,,,,,,,
+C:/Users/skola/Desktop/ExampleSubmissionv3/ArithmeticLogicUnit.v,1712089911,verilog,,,,ArithmeticLogicUnit,,,,,,,,
+C:/Users/skola/Desktop/ExampleSubmissionv3/ArithmeticLogicUnitSimulation.v,1709980323,verilog,,,,ArithmeticLogicUnitSimulation,,,,,,,,
+C:/Users/skola/Desktop/ExampleSubmissionv3/ArithmeticLogicUnitSystem.v,1712105935,verilog,,,,ArithmeticLogicUnitSystem,,,,,,,,
+C:/Users/skola/Desktop/ExampleSubmissionv3/ArithmeticLogicUnitSystemSimulation.v,1709980323,verilog,,,,ArithmeticLogicUnitSystemSimulation,,,,,,,,
+C:/Users/skola/Desktop/ExampleSubmissionv3/Helper.v,1711097228,verilog,,,,CrystalOscillator;FileOperation,,,,,,,,
+C:/Users/skola/Desktop/ExampleSubmissionv3/InstructionRegister.v,1712095249,verilog,,,,InstructionRegister,,,,,,,,
+C:/Users/skola/Desktop/ExampleSubmissionv3/InstructionRegisterSimulation.v,1709980323,verilog,,,,InstructionRegisterSimulation,,,,,,,,
+C:/Users/skola/Desktop/ExampleSubmissionv3/Memory.v,1709980323,verilog,,,,Memory,,,,,,,,
+C:/Users/skola/Desktop/ExampleSubmissionv3/Register.v,1711974339,verilog,,,,Register,,,,,,,,
+C:/Users/skola/Desktop/ExampleSubmissionv3/RegisterFile.v,1712150398,verilog,,,,RegisterFile,,,,,,,,
+C:/Users/skola/Desktop/ExampleSubmissionv3/RegisterFileSimulation.v,1709980323,verilog,,,,RegisterFileSimulation,,,,,,,,
+C:/Users/skola/Desktop/ExampleSubmissionv3/RegisterSimulation.v,1709980323,verilog,,,,RegisterSimulation,,,,,,,,

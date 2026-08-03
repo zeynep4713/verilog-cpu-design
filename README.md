@@ -2,9 +2,13 @@
 
 A two-stage CPU design project implemented in Verilog HDL for the BLG222E Computer Organization course at Istanbul Technical University.
 
-![CPU Architecture](cpu_architecture.png)
+<p align="center">
+  <img src="cpu_architecture.png" alt="CPU Architecture" width="750">
+</p>
 
-*Architecture diagram from the BLG222E Computer Organization project specification, included for educational and documentation purposes.*
+<p align="center">
+  <em>Architecture diagram from the BLG222E Computer Organization project specification, included for educational and documentation purposes.</em>
+</p>
 
 ## Overview
 
